@@ -50,10 +50,4 @@ public class Sudoku {
         System.out.println();
     }
 
-    private void printRegel(int regel) {
-        for (int quadrantNr = 0; quadrantNr <= 8; quadrantNr++) {
-
-        }
-
-}
 }
